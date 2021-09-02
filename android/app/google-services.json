@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439644954386",
+    "project_id": "friends-chat-15621",
+    "storage_bucket": "friends-chat-15621.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439644954386:android:a369390cd73e42ba2bddcb",
+        "android_client_info": {
+          "package_name": "com.example.friends_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439644954386-e9alg2i3t1tl1ko42rjthquv44cb1idq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjjUxsrhO84VPVKkN-lVEa8AicqQTKgHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439644954386-e9alg2i3t1tl1ko42rjthquv44cb1idq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
